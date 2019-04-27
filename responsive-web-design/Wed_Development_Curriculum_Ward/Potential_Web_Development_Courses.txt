@@ -1,0 +1,29 @@
+Web Development Development Courses
+
+- HTML/CSS
+	1) Responsive Web Design
+		a) HTML syntactic cleanliness
+		b) freeCodeCamp curriculum
+
+- Javascript
+	1) 
+
+- Web Development soft skills
+
+- Training Projects
+
+- Web Development Documentation Training
+	1) Actity Log Daily (Multiple Times on Weekends)
+	2) 
+
+- Debugging Training
+	 1) Structural Integrity
+		a) Practice creating basic pages with various HTML tags and structures
+		b) Explore how they interact with each other and how they break
+		c) Find practice code to debug online
+			i) HTML/CSS
+			ii) Javascript
+				ii.1) Online Resources (Github, Google, etc.)
+				ii.2) freeCodeCamp curriculum
+			iii) 
+	
