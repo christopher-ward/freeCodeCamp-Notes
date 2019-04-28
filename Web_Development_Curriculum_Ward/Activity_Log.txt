@@ -26,5 +26,39 @@ Will devote about an hour or so more to the topic.
 
 1:46 PM 4/27/2019
 Beginning Javascript curriculum on freeCodeCamp. Will probably end early to switch to other topic or change locations.
+
 2:56 PM 4/27/2019
 I stopped about 30 minutes ago and took a quick nap
+
+
+11:02 AM 4/28/2019
+Started at Viento y Agua. Laptop log is not in line with desktop log.
+
+1:25 PM 4/28/2019
+Been working on applied accessibility and will now take a break and shift to a different topic when start back up.
+Quick summary of what I learned off the top of my head:
+Changing the contrast of the color to background-color to a ratio of at least 4.5:1 will making the text easier to see, especially for individuals with vision problem.
+Also having the background and foreground colors to similar can cause problems for individuals with color-blindness.
+There are also ways to give accesskeys to elements on the page so that keyboard-only users can easily jump to important elements using alt + the accesskey assigned.
+There is also ways to highlight a region that is tabbed to in order to bring attention to it as an important element to pay attention to.
+The focus order when pressing tab in a page can also be modified using the tabindex attribute. tabindex="0" is same as default and tabindex="1", "2", "3", etc.
+will have focus priority numerically before "0". 
+
+Elements assigned with the same tabindex values will progress in the order the elements appear in html after focus priority considered.
+Ex. tabindex="1" will focus before "2" and "2" will focus before "0" and duplicate values will focus in order of progression in the html from top to bottom after tabindex value priority. 
+
+2:20 PM 4/28/2019
+Starting back up. Going to focus on Javascript now.
+
+3:00 PM 4/28/2019
+Still going, just wanted to summarize what I've learned so far before I forget.
+Single quotes and doublequotes can be used interchangably around string literals. There can also be a mixture of double and single quotes within a string literal.
+However, if a string literal declaration begins with a single quote, the next time a single quote appears, that will represent the ending of the assignment.
+If this ends the literal to soon, use \ to escape before the quotation mark, or switch to double quotes, and vice-versa. There are also other escape features
+such as \n (newline), \t (tab), \\ (backslash, or \), etc.
+
+You can also append using +. This can be used in assingments and mixing string literals with variables or variables with variables. Aslo += can be used to append onto current variable string value.
+Going back to the Javascript freeCodeCamp.
+
+3:20 PM 4/28/2019
+OK, now I'm done with Javascript. Going to head home now.
