@@ -83,3 +83,11 @@ Starting at Hidden House Coffee. Going to start with Responsive Web Design for a
 11:06 AM 4/29/2019
 Stopped about 20 minutes ago. The flexbox topics so far have largely been refreshers of concepts previously learned but are good to review. Some of the terminology is slightly different or more in depth.
 Next up I'll work on updating the old project.
+
+12:19 PM 4/29/2019
+Added figure tags and figcaption to make img elements more accessibility to screen readers on old Project0 from Harvard CS50 Web course. It was only added to page_7, next in that project will be adding
+accessibile forms for practice and ensuring the rest of the elements have accessibility aspects included.
+Taking a break. May go to lunch before starting again. May do some more Javascript before that.
+
+12:36 PM 4/29/2019
+Going to leave Hidden House and go get lunch.
