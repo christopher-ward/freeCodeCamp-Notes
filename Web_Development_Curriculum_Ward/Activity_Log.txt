@@ -62,3 +62,17 @@ Going back to the Javascript freeCodeCamp.
 
 3:20 PM 4/28/2019
 OK, now I'm done with Javascript. Going to head home now.
+
+8:37 PM 4/28/2019
+Starting to work again and going to look at more Responsive Web Design Principles.
+
+9:34 PM 4/28/2019
+Taking break. Touched up on responsive design principles. Media queries allow features to change with changing size of screen or browser size.
+Images can be made responsive to size changes using percentages. Changing an image's width and height to half the original size to make it appear higher resolution and
+also optimize for retina displays. You can also have text size change in relation to viewport dimensions (vw, vh, vmin, vmax). And began flexbox.
+
+11:37 PM 4/28/2019
+Putting in another hour. Going to read some articles, do some javascript and apply some accessibility tools to my Harvard CS50 Project.
+
+12:35 AM 4/29/2019
+Stopped around 30 minutes in.
