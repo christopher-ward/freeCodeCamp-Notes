@@ -95,3 +95,38 @@ Going to leave Hidden House and go get lunch.
 5:11 PM 4/29/2019
 Started reading articles about 45 mins ago. Starting back on Flexbox. More than halfway through and then one more section before projects.
 Closer and closer to the Responsive Web Design Projects.
+
+6:21 PM 4/29/2019
+I didn't start flexbox. Instead I started to look into how to automate adding new files to be tracked, committing and pushing to github using bash script.
+I was able to create a script that checks the status, adds all untracked files, commits with a string literal set in the script and pushes to github.
+I want to edit the script to be able to take a commit message from the user to be used for the commit step.
+The user should be prompted to give a commit message and have everything else automated. The git status should show before the prompt for the commit message.
+
+6:31 PM 4/29/2019
+Taking a break to walk the boys and stretch. So far up to 4 hours 15 min of actually work today. Goal is 6 hours. 1 hour 45 min remaining.
+
+7:20 PM 4/29/2019
+Been back from the walk for about 20 minutes and working on the script. Going to go to pool for a little bit with Evelyn in about 5 minutes.
+
+8:38 PM 4/29/2019
+Returned from pool about 30 min ago and have been researching how to have user input in bash. Going to cook dinner soon. 1 hour 15 min remaining.
+
+9:02 PM 4/29/2019
+Very close to a finished script. Getting things working. Breaking for Dinner. 45 Mins remaining
+
+9:50 PM 4/29/2019
+Starting back up.
+
+11:10 PM 4/29/2019
+Stopped to check laundry about 10 minutes ago. Realizing, I have exceeded 6 hours of study/devWork.
+
+Today, I revisited some flexbox basics. Started adding some accessibility items to the old CS50 Project0. Read some articles.
+Found some new resources. Decided to take a look into bash scripting. 
+Began creating a script to make committing and pushing new changes easier/quicker.
+
+Tomorrow, I'll go back to normal weekday hours. I'll try to finish up the flexbox section and some of the next section tomorrow morning/night. 
+And then, the next morning, I will be heading to Coachella valley with Cesar to work on his project.
+We will also be spending the night there, so I may be able to get some work done there. I also may not.
+
+This weekend, including today, I worked 13 hours and 3 minutes.
+
