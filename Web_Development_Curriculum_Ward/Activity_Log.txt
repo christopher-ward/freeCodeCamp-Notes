@@ -137,3 +137,19 @@ Going to work for about 25 min.
 
 8:49 PM 4/30/2019
 Stopped about 25 mins in.
+
+7:04 PM 5/3/2019
+Going to start working with an SQL Tutorial I found online.
+
+I also read a few articles and think I want to start integrating questions and reviews to these notes to be revisited as I continue to learn and prepare for my career.
+
+11:34 AM 5/4/2019
+It didn't last long at all last night. Maybe did 45 min total last night.
+
+Starting again. Will stop in about 30 for lunch.
+
+2:33 PM 5/4/2019
+Worked for about 30 min. Starting back up. Going to watch a video about loop vs recursion, and then will finish flexbox and move on from there.
+
+3:39 PM 5/4/2019
+Didn't end up doing much. Starting on CSS Grid now.
