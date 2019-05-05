@@ -6,23 +6,25 @@ git status
 
 read -p 'commit -m ' varCommit
 
-if [ -z "$varCommit" ]; then
-	echo "Please put in a commit message."
-	exit
-elif ["$1" == "n"]; then
-	echo "You canceled the script."
-	exit
-else
-	echo $varCommit
-fi
+#if [ -z "$varCommit" ]; then
+#	echo "Please put in a commit message."
+#	exit
+#elif [""$varCommit"" == "n"]; then
+#	echo "You canceled the script."
+#	exit
+#else
+#	echo ""$varCommit""
+#fi
 
-#git add .
+git add .
 
-#git commit -m ""$1""
+git commit -m "$varCommit"
 
-#git push
+git push
 
-echo "After the conditional."
+git status
+
+echo "It's done."
 
 
 

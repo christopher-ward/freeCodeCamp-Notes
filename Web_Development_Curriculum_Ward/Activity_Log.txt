@@ -154,7 +154,9 @@ Worked for about 30 min. Starting back up. Going to watch a video about loop vs 
 3:39 PM 5/4/2019
 Didn't end up doing much. Starting on CSS Grid now.
 
+
 5:00 PM 5/4/2019
+CSS Grid Summary:
 Worked for about 1 hour 15 min. Learned a lot about CSS Grid.
 
 What can CSS Grid allow you to do very quickly? What are the CSS grid units?
@@ -172,3 +174,30 @@ Explain the significance of grid-area-template and give an example. What does ea
 Individual grid items can be assigned to areas using the grid-area property and the name of the area name. This relates to grid-template-areas.
 
 Going to take a little break, maybe go get groceries. This type up took around 15 minutes. So total today: 2 hours
+
+
+10:09 PM 5/4/2019
+Starting again.
+
+
+11:45 PM 5/4/2019
+Just finished CSS Grid section.
+How is grid-area used to define the area for an item? How does repeat function reduce repetition? 
+Auto-fit and auto-fill are different. What are the differences? How are Media Queries used to create responsive layouts?
+
+I'll see how much more I can do. The Responsive Web Design Projects are up next in the Responsive Web Design Curriculum.
+
+Total so far: 3 hours 30min
+
+12:51 AM 5/5/2019
+Didn't do much. Maybe about 30min.
+
+Starting some more. So far: 4 hours.
+
+1:51 AM 5/5/2019
+Stopping now. I read articles about Mastery Based Learning, learning method. 
+I like aspects of what it said. I feel that I've been gravitating toward that more, lately.
+
+I will have to explore more later, but for now, I'm going to focus on those Responsive Web Design projects and to a lesser extent, Javascript.
+
+Was able to work for 5 hours today.
