@@ -201,3 +201,10 @@ I like aspects of what it said. I feel that I've been gravitating toward that mo
 I will have to explore more later, but for now, I'm going to focus on those Responsive Web Design projects and to a lesser extent, Javascript.
 
 Was able to work for 5 hours today.
+
+2:26 AM 5/5/2019
+I actually ended up continuing to explore and spent most of the time tinkering with the shell script again. Finally finished a version.
+
+It prompts for a commit message after showing git status. All unstaged files are then added to staged files and then the changes are committed with the commit message given.
+
+Total time: 4 hours 30 min.
