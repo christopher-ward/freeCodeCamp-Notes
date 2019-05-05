@@ -153,3 +153,22 @@ Worked for about 30 min. Starting back up. Going to watch a video about loop vs 
 
 3:39 PM 5/4/2019
 Didn't end up doing much. Starting on CSS Grid now.
+
+5:00 PM 5/4/2019
+Worked for about 1 hour 15 min. Learned a lot about CSS Grid.
+
+What can CSS Grid allow you to do very quickly? What are the CSS grid units?
+
+How are gaps within the grid created? 
+
+How does grid-column control grid item spacing? What does this mean? grid-column: 1 / 3; (grid-row?)
+
+How do you align an item horizontally? Vertically? (How does start end and center relate to this?)
+
+How do you align all items at once? 
+
+Explain the significance of grid-area-template and give an example. What does each word and pair of quotation marks mean in terms of the grid?
+
+Individual grid items can be assigned to areas using the grid-area property and the name of the area name. This relates to grid-template-areas.
+
+Going to take a little break, maybe go get groceries. This type up took around 15 minutes. So total today: 2 hours
