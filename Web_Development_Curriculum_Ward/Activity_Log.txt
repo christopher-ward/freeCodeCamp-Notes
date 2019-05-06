@@ -244,3 +244,20 @@ Total Time "today" so far: 5 hours.
 
 1:22 AM 5/6/2019
 Hit my 6 hours.
+
+1:51 PM 5/6/2019
+Took today off and going to start working on project for about an hour. Then, I'll switch to git/bash practice and scripting.
+Then third hour will be Javascript. Fourth hour back to project. Fifth hour will be Javascript. Sixth hour free topic
+
+
+Or any order totalling these hours:
+Hours  :  Focus
+   2   :   Project
+   2   :   Javascript
+   1   :   Git/Bash
+   1   :   Free Choice
+
+...
+
+Starting with Project.
+
