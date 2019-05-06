@@ -1,4 +1,4 @@
-#!/bin/bash
+# !/bin/bash
 # Show status of git and prompt User for commit message to commit all the new changes to git and push to github
 # Also create conditionals to check for lack of message and also if User wishes to cancel commit after seeing status.
 
@@ -24,7 +24,6 @@ git push
 
 git status
 
-echo "It's done."
-
-
-
+echo ""
+echo "------------------------------Script Complete------------------------------"
+echo "commit -m: $varCommit"

@@ -261,3 +261,9 @@ Hours  :  Focus
 
 Starting with Project.
 
+
+2:24 PM 5/6/2019
+Break for lunch with Evelyn. Started off with 1 hour git/bash scripting instead. Worked for 33 mins.
+
+4:13 PM 5/6/2019
+Resuming git/bash scripting for remainder of the previous hour.
