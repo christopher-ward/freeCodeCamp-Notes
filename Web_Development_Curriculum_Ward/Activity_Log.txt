@@ -223,5 +223,21 @@ Been exploring the project and codepen and what it has to offer. Started an acco
 
 So far 1 hour 10 min. 
 
+5:12 PM 5/5/2019
+Worked for about 45 min before going to the conference room with Evelyn. I arrived about 5 minutes ago.
+
+6:09 PM 5/5/2019
+Figuring out what exactly is needed for this first project. Taking short break.
+
+7:22 PM 5/5/2019
+Initally tried to use the codepen format, but realized I'd much rather use atom when I realized I could add the freeCodeCamp Project tester as javascript sourcee in the project.
+
+Now playing around with a grid setup. Never really took a break.
 
 11:58 PM 5/5/2019
+Started to dig into the blending of my activity logs.
+
+12:24 AM 5/6/2019
+Last step to blending done. 
+
+Total Time "today" so far: 5 hours.
