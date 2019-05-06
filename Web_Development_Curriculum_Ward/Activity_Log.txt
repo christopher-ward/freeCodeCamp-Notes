@@ -208,3 +208,16 @@ I actually ended up continuing to explore and spent most of the time tinkering w
 It prompts for a commit message after showing git status. All unstaged files are then added to staged files and then the changes are committed with the commit message given.
 
 Total time: 4 hours 30 min.
+
+5:12 PM 5/5/2019
+Came to the conference room with Evelyn about 5 minutes ago.
+
+6:09 PM 5/5/2019
+Figuring out what exactly is needed for this first project. Taking short break.
+
+7:22 PM 5/5/2019
+Initally tried to use the codepen format, but realized I'd much rather use atom when I realized I could add the freeCodeCamp Project tester as javascript sourcee in the project.
+
+Now playing around with a grid setup. Never really took a break.
+
+Total Time "today" so far: 
