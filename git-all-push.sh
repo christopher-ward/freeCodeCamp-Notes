@@ -34,6 +34,7 @@ git status
 echo ""
 
 echo "------------------------------Script Complete------------------------------"
+echo ""
 echo "commit -m: $varCommit"
 echo ""
 echo "Pushed to github"
