@@ -12,6 +12,13 @@ Web Development Development Courses
 
 - Training Projects
 
+- Git/Bash Script Creation
+	1) Task Optimization Scripts
+	2) Directory Search Scripts
+	3) Jump-start Scripts
+		a) Script Idea: Initiate Basic HTML Project Template Start from bash
+		b) Script Idea: Jump to specific directory from any directory with fewer steps
+
 - Web Development Documentation Training
 	1) Actity Log Daily (Multiple Times on Weekends)
 	2) 
