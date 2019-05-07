@@ -270,3 +270,16 @@ Resuming git/bash scripting for remainder of the previous hour.
 
 5:00 PM 5/6/2019
 Taking a break. Transitioning to Project when start again. 1 hour 20 min so far.
+
+5:19 PM 5/6/2019
+Actually finally stopped. I've been very fascinated with bash and building scripts to make tasks easier.
+Must keep visiting this. 1 hour 40 min so far.
+That leaves:
+
+Hours  :  Focus
+   2   :   Project
+   2   :   Javascript
+   0   :   Git/Bash
+   .5   :   Free Choice
+
+...
