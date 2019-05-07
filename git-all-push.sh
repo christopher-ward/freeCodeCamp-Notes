@@ -14,7 +14,7 @@ if [ -z "$varCommit" ]; then
 	echo ""
 	echo "Please put in a commit message."
 	exit
-elif [ "$varCommit" == "n" ]; then
+elif [ "$varCommit" == "n" || "$varCommit" == "'n'"]; then
 	echo ""
 	echo "You canceled the script."
 	exit
