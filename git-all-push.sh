@@ -9,7 +9,7 @@ git status
 echo ""
 echo "Enter 'n' to cancel. Enter 'spec' to specify file, otherwise all files."
 echo ""
-read -p 'commit -m ' varCommit
+read -p "commit -m " varCommit
 
 # Check that a commit message exists
 if [[ -z "$varCommit" ]]; then
@@ -19,7 +19,7 @@ if [[ -z "$varCommit" ]]; then
 
 # For adding specific files to be committed and pushed
 elif [[ "$varCommit" == "spec" ]] || [[ "$varCommit" == "'spec'" ]]; then
-	read -p 'Specify file to add commit and push: ' specificFile
+	read -p "Specify file to add commit and push: " specificFile
 	# Check that filename entered
 	if [[ -z "$specificFile" ]]; then
 		echo "No file choice made"
@@ -27,11 +27,11 @@ elif [[ "$varCommit" == "spec" ]] || [[ "$varCommit" == "'spec'" ]]; then
 	else
 		echo ""
 		echo "Add "$specificFile"? y/n"
-		read -p 'Choice ' choice
-		echo ""
+		read -p "Choice " choice
 		if [[ "$choice" == "y" ]] || [[ "$choice" == "'y'" ]]; then
-			git add "$choice"
-			read -p 'Commit -m ' specificCommit
+			git add "$specificFile"
+			echo ""
+			read -p "Commit -m " specificCommit
 			if [[ -z "$specificCommit" ]]; then
 				echo "No commit message given"
 				exit
