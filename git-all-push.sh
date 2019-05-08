@@ -1,13 +1,15 @@
 # !/bin/bash
 # Show status of git and prompt User for commit message to commit all the new changes to git and push to github
 # Also create conditionals to check for lack of message and also if User wishes to cancel commit after seeing status.
+# 5/7/19 Added conditionals for if User wants to specify individual file
 
 echo ""
 
 git status
 
+# Initial interaction with User
 echo ""
-echo "Enter 'n' to cancel. Enter 'spec' to specify file, otherwise all files."
+echo "Enter 'n' to cancel. Enter 'spec' to specify individual file, otherwise all files."
 echo ""
 read -p "commit -m " varCommit
 
