@@ -41,6 +41,7 @@ elif [[ "$varCommit" == "spec" ]] || [[ "$varCommit" == "'spec'" ]]; then
 				git reset HEAD "$specificFile"
 				exit
 			else
+				# Commit specific file changes with stored message
 				git commit -m "$specificCommit"
 				echo "Committed "$specificFile""
 			fi
@@ -50,6 +51,7 @@ elif [[ "$varCommit" == "spec" ]] || [[ "$varCommit" == "'spec'" ]]; then
 		fi
 	fi
 
+# If initial response is no
 elif [[ "$varCommit" == "n" ]] || [[ "$varCommit" == "'n'" ]]; then
 	echo ""
 	echo "You canceled the script."
@@ -58,15 +60,18 @@ elif [[ "$varCommit" == "n" ]] || [[ "$varCommit" == "'n'" ]]; then
 # Condition to add commit and push all unstaged files
 else
 	git add .
+	# Commit all files changed with stored message
 	git commit -m "$varCommit"
 fi
 
+# Push to github remote repository
 git push
 
 echo ""
 git status
 echo ""
 
+# Completion Response to User
 echo "------------------------------Script Complete------------------------------"
 echo ""
 if [[ "$varCommit" == "spec" ]] || [[ "$varCommit" == "'spec'" ]]; then
