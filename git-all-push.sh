@@ -7,36 +7,55 @@ echo ""
 git status
 
 echo ""
-echo "Enter 'n' to cancel"
+echo "Enter 'n' to cancel. Enter 'spec' to specify file, otherwise all files."
 echo ""
 read -p 'commit -m ' varCommit
 
-if [ -z "$varCommit" ]; 
-	then
+# Check that a commit message exists
+if [[ -z "$varCommit" ]]; then
 	echo ""
 	echo "Please put in a commit message."
 	exit
-elif [ "$varCommit" == "n" ] || [ "$varCommit" == "'n'" ]; 
-	then
+
+# For adding specific files to be committed and pushed
+elif [[ "$varCommit" == "spec" ]] || [[ "$varCommit" == "'spec'" ]]; then
+	read -p 'Specify file to add commit and push: ' specificFile
+	# Check that filename entered
+	if [[ -z "$specificFile" ]]; then
+		echo "No file choice made"
+		exit
+	else
+		echo ""
+		echo "Add "$specificFile"? y/n"
+		read -p 'Choice ' choice
+		echo ""
+		if [[ "$choice" == "y" ]] || [[ "$choice" == "'y'" ]]; then
+			git add "$choice"
+			read -p 'Commit -m ' specificCommit
+			if [[ -z "$specificCommit" ]]; then
+				echo "No commit message given"
+				exit
+			# Reset HEAD if choice 'n'
+			elif [[ "$specificCommit" == "n" ]] || [[ "$specificCommit" == "'n'" ]]; then
+				echo "You have canceled the script"
+				git reset HEAD "$specificFile"
+				exit
+			else
+				git commit -m "$specificCommit"
+				echo "Committed "$specificFile""
+			fi
+		else
+			echo "Try again"
+			exit
+		fi
+	fi
+
+elif [[ "$varCommit" == "n" ]] || [[ "$varCommit" == "'n'" ]]; then
 	echo ""
 	echo "You canceled the script."
 	exit
-elif [ "$varCommit" == "spec" ]; 
-	then
-	read -p 'Specificy file to add commit and push: ' specFile
-	echo "Add '$specFile'? y/n"
-	read -p '' choice
-	if [ "$choice" == "y" ]; 
-		then
-		git add "$choice"
-		read -p 'Commit -m ' specCommit
-		git commit -m "$specCommit"
-	elif [ "$choice" == "n" ]; 
-		then
-		echo "Try again"
-		exit
-	fi
-	
+
+# Condition to add commit and push all unstaged files
 else
 	git add .
 	git commit -m "$varCommit"
@@ -50,8 +69,13 @@ echo ""
 
 echo "------------------------------Script Complete------------------------------"
 echo ""
-echo "commit -m: $varCommit"
+if [[ "$varCommit" == "spec" ]] || [[ "$varCommit" == "'spec'" ]]; then
+	echo "commit -m: "$specificCommit""
+else
+	echo "commit -m: "$varCommit""
+fi
 echo ""
 echo "Pushed to github"
 
+# Exit script
 exit

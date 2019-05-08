@@ -299,5 +299,8 @@ Will need to modify remainder of night because of fieldwork tomorrow.
 Didn't do much. Had dinner and watched GoT with Evelyn. Also did Laundry. And will
 
 1:46 PM 5/7/2019
-Tribut Page Project.
+Tribute Page Project.
+Worked for about an hour.
 
+7:02 PM 5/7/2019
+Starting at conference room. Will first fix shell git/push script and then work on Tribute Page.
