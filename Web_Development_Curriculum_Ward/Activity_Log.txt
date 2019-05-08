@@ -304,3 +304,9 @@ Worked for about an hour.
 
 7:02 PM 5/7/2019
 Starting at conference room. Will first fix shell git/push script and then work on Tribute Page.
+
+8:47 PM 5/7/2019
+Never switched from playing with the script lol. It really keeps me interested. I've added functionality which has made it beefier: specific files can be chosen instead of all of the files, but slows down the process.
+Works well but will need eventual tweaking when learn more.
+
+Worked for 2 hours 45 min today.
