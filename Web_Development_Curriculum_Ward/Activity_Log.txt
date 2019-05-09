@@ -329,3 +329,8 @@ Starting back up. Going to focus on Javascript until Evelyn calls me.
 
 4:49 PM 5/8/2019
 Leaving now.
+
+10:02 PM 5/8/2019
+Started working on the tribute project about 30 mins ago. Thinking that I should integrate the nav component and/or some other components from the CS50 project0 in a way that makes sense.
+Perhaps I could integrate some of the styling.
+ 
