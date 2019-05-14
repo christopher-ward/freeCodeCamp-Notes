@@ -334,3 +334,5 @@ Leaving now.
 Started working on the tribute project about 30 mins ago. Thinking that I should integrate the nav component and/or some other components from the CS50 project0 in a way that makes sense.
 Perhaps I could integrate some of the styling.
  
+8:28 PM 5/10/2019
+At Boyd Canyon Research Station and going to code for a little bit.
