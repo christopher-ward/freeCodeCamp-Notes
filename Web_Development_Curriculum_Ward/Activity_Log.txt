@@ -345,3 +345,46 @@ About 45 minutes have been used cleaning clothes and making and eating dinner. B
 
 9:18 PM 5/13/2019
 Turned in Tribute Page Project and been reading about softskills, how to get a entry job, big O notation and Javascript.
+
+10:26 PM 5/13/2019
+Taking short break.
+
+8:19 AM 5/14/2019
+Break last night didn't really end.
+
+Starting again this morning for a little while before going to Croul. I think that I like the idea of doing this more often.
+By this, I mean waking up earlier to drive Evelyn to School and then taking a few hours to learn and code.
+It allows for the feeling of working at night that I enjoy, while not actually making me lose any sleep.
+I also won't be disturbing Evelyn at night.
+
+
+8:44 AM 5/14/2019
+Working on Javascript at the moment. Started making screenshots of both the prompt/lesson and the code area after solution verified.
+Just add so for the solution, ex: #_""(sol).png
+
+# being number of saved lesson
+"" being the name after the number
+
+// Add comments in solution code that describe what is occuring as a result of the change in code.
+
+
+7:23 PM 5/14/2019
+Done about 30 minutes of work since got back so far. 
+Total Time Today: ~2 hours 30 min
+
+Going to work some more starting now. Will stop soon to change laundry and also to cook dinner.
+
+7:49 PM 5/14/2019
+Laundry trip was neglible. Will stop in 10 minutes to make dinner.
+
+9:54 PM 5/14/2019
+Stopped for dinner 15 mins after instead of 10. Been back on it for the past 5 minutes.
+
+So far: ~3 hours 15 min
+
+10:49 PM 5/14/2019
+Took a 20 minute break.
+
+So far: ~3 hours 50 min
+
+Ending for tonight.
