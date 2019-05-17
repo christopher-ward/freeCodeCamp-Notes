@@ -388,3 +388,11 @@ Took a 20 minute break.
 So far: ~3 hours 50 min
 
 Ending for tonight.
+
+2:16 PM 5/16/2019
+Yesterday worked for more than 8 hours, possibly 10 hours. 
+Went in depth on learning the Unix Bash scripts to create pages with repeated elements.
+
+10:44 AM 5/17/2019
+Yesterday at the airport I worked for about an hour, studying Javascript
+Going to work for a little bit right now.
