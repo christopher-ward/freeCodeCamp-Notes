@@ -396,3 +396,43 @@ Went in depth on learning the Unix Bash scripts to create pages with repeated el
 10:44 AM 5/17/2019
 Yesterday at the airport I worked for about an hour, studying Javascript
 Going to work for a little bit right now.
+
+7:12 AM 5/18/2019
+Yesterday worked for an hour. Going to work for a little bit this morning.
+
+
+7:38 AM 5/18/2019
+I think I should write a little bit about what I have learned so far. In javascript I have learned simple basics so far.
+How to create and assign value to variables. Use var to declare a variable and then assignment is the same as other languages.
+Arrays are also similar to Matlab.
+
+Some new things. arrName.push() will add the value with the parentheses to the end of the array (far-right).
+arrName.pop() will remove the last value of the array (far-right)
+arrName.shift() will remove the first value of the array (far-left)
+arrName.unshift() will add the value within parantheses to the beginning of the array (far-left)
+
+There are also many properties similar to other programming languages such as functions that are created with the function
+keyword in the format:
+
+function functionName(parameters, if any) {
+    #statements;
+}
+
+There are also boolean values and conditional statements using if keyword:
+
+if (conditional) {
+   #conditional statement;
+}
+
+within a function:
+
+if (conditional) {
+   return #true conditional statement;
+}
+return #false conditional statement;
+
+Also comparison with equality statements
+
+
+8:09 AM 5/18/2019
+Will end now for Breakfast
