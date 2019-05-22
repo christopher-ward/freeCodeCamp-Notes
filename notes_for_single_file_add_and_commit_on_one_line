@@ -1,0 +1,8 @@
+# gitcomm #filename# #commitMessage#
+
+Create a script that executes along with two arguments, $1 is the specific file to track and commit
+$2 is the commit -m "" message.
+
+gitcomm should eventually be a global program/function/whatever that can be used anywhere and refer to files of the current directory.
+
+gitcomm could also be the name of the script at first
