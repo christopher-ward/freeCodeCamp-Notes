@@ -10,8 +10,7 @@ if [[ -z "$dir_var" ]]; then
 	exit
 
 else
-  # loop through "cool_images.txt" line by line for each filename in the txt file
-  # cool_images.txt
+  # Loop through each filename in the inputted directory and create list of those files
 	for filename in ../resources/images/"$dir_var"/*
 	do
 		echo "$filename" >> "$dir_var"_list.txt
