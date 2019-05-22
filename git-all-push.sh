@@ -3,10 +3,19 @@
 # Also create conditionals to check for lack of message and also if User wishes to cancel commit after seeing status.
 # 5/7/19 Added conditionals for if User wants to specify individual file
 # 5/14/19 Last improvements around 5/8/19 and works smooth.
+# 5/22/19 Should create alternate versions for simpler but related tasks.
+# Also add feature to be able to include a filename when calling the script for specific files
 
 echo ""
 
 git status
+
+# if [[ -z "$1" ]]; then
+# 	echo ""
+# 	echo "Please put in a commit message."
+# 	exit
+# fi
+# Play around with. Check to see if additional argument provided and then process it if so
 
 # Initial interaction with User
 echo ""
