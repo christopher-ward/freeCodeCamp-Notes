@@ -2,6 +2,7 @@
 # Show status of git and prompt User for commit message to commit all the new changes to git and push to github
 # Also create conditionals to check for lack of message and also if User wishes to cancel commit after seeing status.
 # 5/7/19 Added conditionals for if User wants to specify individual file
+# 5/14/19 Last improvements around 5/8/19 and works smooth.
 
 echo ""
 
