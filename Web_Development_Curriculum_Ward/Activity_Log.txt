@@ -431,8 +431,20 @@ if (conditional) {
 }
 return #false conditional statement;
 
-Also comparison with equality statements
+Also comparison with equality statements (==)
+variable/statement/value == variable/statement/value, will produce boolean value of true if true or left is equal to right
+If left is '3', a string, and right is 3, a numnber, will still be true equality because javascript will convert to common type
+'3' == 3 will produce true boolean
+
+However,
+Strict equality statements (===) will not return true boolean if left is '3', a string, and right is 3, a numnber.
+variable/statement/value must be === (strictly equal) to the other variable/statement/value in value and datatype.
+'3' === 3 will return false boolean
 
 
 8:09 AM 5/18/2019
 Will end now for Breakfast
+
+
+7:37 PM 5/21/2019
+Starting merging organizing files and environment files from trip about 20 minutes ago.
