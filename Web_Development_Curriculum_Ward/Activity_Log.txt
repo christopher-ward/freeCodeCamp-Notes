@@ -456,3 +456,17 @@ Starting merging organizing files and environment files from trip about 20 minut
 
 12:17 AM 5/22/2019
 Been coding, debugging and fixing logs for about 3 hours so far today, perhaps longer.
+
+9:06 AM 5/22/2019
+Worked for about 30 mins after that last log. Now I'm at the Grad Lounge in the Science Library (5th Floor).
+Could be a good setup for future studying/working.
+
+First thing to work on today is the Next Responive Web Design Project (Survey Form). I will first try to make as much of the page
+without lookout at the sample page to see how far I can get and to not influence the end result too much.
+
+9:39 AM 5/22/2019
+Got sidetracked by making notes for a new script. Will now to Survey Form
+
+7:52 AM 5/23/2019
+Worked on Survey Form yesterday for about 1 hour until around 10:30 AM. Also worked for about 3 hours last night, reading articles
+and working on Shell Scripts
