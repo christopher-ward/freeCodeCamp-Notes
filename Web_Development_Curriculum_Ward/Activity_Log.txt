@@ -476,3 +476,15 @@ Going to work for a little bit on Javascript.
 
 10:45 PM 5/23/2019
 Ending for the night.
+
+1:25 PM 5/24/2019
+Worked this morning for about an hour. Worked on "Golf Code" which was the accumulation of different conditional if statement exercises
+Learned some cool tricks from it. Check "60_Golf-Code" and "60_Golf-Code_solution" for some good summary.
+It's also important to be aware of the logic working through the if statements (if, else if, else) in a multi-conditional 
+situation. Missteps can result in lines of code being irrelevant or not run because something overrides it.
+
+3:23 PM 5/24/2019
+Starting doing more Javascript about 30 minutes ago and will stop around 4 and continue again later. Brought in switch statements now.
+
+3:58 PM 5/24/2019
+Finished up at Return Early Pattern for Functions
