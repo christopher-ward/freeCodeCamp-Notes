@@ -470,3 +470,9 @@ Got sidetracked by making notes for a new script. Will now to Survey Form
 7:52 AM 5/23/2019
 Worked on Survey Form yesterday for about 1 hour until around 10:30 AM. Also worked for about 3 hours last night, reading articles
 and working on Shell Scripts
+
+8:52 PM 5/23/2019
+Going to work for a little bit on Javascript.
+
+10:45 PM 5/23/2019
+Ending for the night.
