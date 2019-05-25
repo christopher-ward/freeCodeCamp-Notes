@@ -502,3 +502,10 @@ Starting for the morning.
 9:01 AM 5/25/2019
 Taking break to walk boys and make breaksfast. Was able to get through a few lessons on Javascript Objects and dot(.) versus bracket[] notation
 
+
+1:45 PM 5/25/2019
+Been at a Cafe since for past 45 min working on Javascript.
+
+3:11 PM 5/25/2019
+Going to stop now and check on Evelyn.
+So far today, worked for 2 hours 10 min. Learned a lot about JavaScript Objects.
