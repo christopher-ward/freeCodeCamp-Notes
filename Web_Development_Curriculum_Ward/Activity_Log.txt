@@ -495,3 +495,10 @@ Starting backup. I can't stop with the Javascript!
 11:36 PM 5/24/2019
 Going to take a break now. Had a really fun time figuring out the Counting Cards exercise. Utilized mixture of switch and ifs.
 So far ~3 hours 30 min today.
+
+8:35 AM 5/25/2019
+Starting for the morning.
+
+9:01 AM 5/25/2019
+Taking break to walk boys and make breaksfast. Was able to get through a few lessons on Javascript Objects and dot(.) versus bracket[] notation
+
