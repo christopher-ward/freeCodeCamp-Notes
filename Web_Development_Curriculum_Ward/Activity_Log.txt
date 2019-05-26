@@ -508,4 +508,10 @@ Been at a Cafe since for past 45 min working on Javascript.
 
 3:11 PM 5/25/2019
 Going to stop now and check on Evelyn.
-So far today, worked for 2 hours 10 min. Learned a lot about JavaScript Objects.
+So far today, worked for 2 hours 40 min. Learned a lot about JavaScript Objects.
+
+2:47 PM 5/26/2019
+Worked for about 4 more hours last night, but experimented with using grid layouts for image galleries.
+Total worked over 7 hours yesterday.
+
+Haven't looked at anything today yet. Going to start now with the Survey Form Project.
