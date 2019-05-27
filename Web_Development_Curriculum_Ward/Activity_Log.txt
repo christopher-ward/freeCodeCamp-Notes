@@ -515,3 +515,14 @@ Worked for about 4 more hours last night, but experimented with using grid layou
 Total worked over 7 hours yesterday.
 
 Haven't looked at anything today yet. Going to start now with the Survey Form Project.
+
+2:57 PM 5/26/2019
+Actually going to reorganize early notes and use updated method for making notes to fix old notes.
+
+11:11 PM 5/26/2019
+Worked for about 1 more hour and then made lunch and then worked another 30 min before brother called to meet up. Going to work for a little bit.
+
+1:26 PM 5/27/2019
+Worked for a about an hour more last night improving some of the Responsive Web Design notes. 
+Been working for the past 30 mins. Doing more improving of the notes. I've really enjoyed revisiting some of the topics that perhaps didn't fully stick.
+I will now eat lunch and transition back to JavaScript.
