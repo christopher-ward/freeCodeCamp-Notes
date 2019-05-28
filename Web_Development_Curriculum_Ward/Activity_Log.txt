@@ -526,3 +526,15 @@ Worked for about 1 more hour and then made lunch and then worked another 30 min 
 Worked for a about an hour more last night improving some of the Responsive Web Design notes. 
 Been working for the past 30 mins. Doing more improving of the notes. I've really enjoyed revisiting some of the topics that perhaps didn't fully stick.
 I will now eat lunch and transition back to JavaScript.
+
+3:18 PM 5/27/2019
+Starting back up again.
+
+7:55 PM 5/27/2019
+Worked for about 3 hours. Part of it was working on the image gallery and exerpimenting more with the grid properties.
+Also looked into using javascript to hide and show images after a certain amount. Couldn't get it to work.
+
+Been working for the past 30 min on JavaScript. Continuing now.
+
+9:26 PM 5/27/2019
+Dinner
