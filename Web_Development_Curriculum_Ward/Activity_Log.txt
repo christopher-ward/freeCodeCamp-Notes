@@ -563,3 +563,23 @@ Going to start back up at home. So far today: 4 hours 30 min
 Only worked for a small amount last night. Bringing total to around 5 hours 15 min.
 
 Working at McDonald's for about an hour.
+
+8:30 AM 5/31/2019
+    for (var i=0; i < contacts.length; i++) {
+        for (var j=0; j < contacts[i].length; j++) {
+    	    if (contacts[i][name]) {
+    	        if (contacts[i][prop]) {
+	                console.log(contacts[i][prop]);
+                }
+                else {
+                    console.log("No such property");
+                }
+            }
+            else {
+                console.log("No such contact");
+            }
+        }
+    }
+}
+
+So far at home
