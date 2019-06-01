@@ -588,3 +588,7 @@ Going to paste below to play around with more when get back home if don't move o
     }
  
   } return "No such contact";
+
+7:59 PM 5/31/2019
+Back home and went to next waypoint in the JavaScript freecodecamp tutorial. Going to work for a bit before pick up Evelyn.
+
