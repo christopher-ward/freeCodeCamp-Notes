@@ -564,22 +564,34 @@ Only worked for a small amount last night. Bringing total to around 5 hours 15 m
 
 Working at McDonald's for about an hour.
 
-8:30 AM 5/31/2019
-    for (var i=0; i < contacts.length; i++) {
-        for (var j=0; j < contacts[i].length; j++) {
-    	    if (contacts[i][name]) {
-    	        if (contacts[i][prop]) {
-	                console.log(contacts[i][prop]);
-                }
-                else {
-                    console.log("No such property");
-                }
-            }
-            else {
-                console.log("No such contact");
-            }
-        }
-    }
-}
+1:52 PM 5/31/2019
+Spending a little time at Ren's Asian Bistro.
+Finally figured out profile-lookup solution!
+Going to paste below to play around with more when get back home if don't move on before.
 
-So far at home
+  for (var i=0; i < contacts.length; i++) {
+
+    if (contacts[i]["firstName"] == name) {
+
+      if (contacts[i][prop]) {
+
+        return contacts[i][prop];
+
+      }
+
+      else {
+
+        return "No such property";
+
+      }
+
+    }
+ 
+  } return "No such contact";
+
+7:59 PM 5/31/2019
+Back home and went to next waypoint in the JavaScript freecodecamp tutorial. Going to work for a bit before pick up Evelyn.
+
+
+9:20 AM 6/1/2019
+At Coffee Nature for about 20 min now. Going to try to finish Basic JavaScript section.
