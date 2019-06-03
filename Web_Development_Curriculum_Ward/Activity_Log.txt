@@ -613,3 +613,10 @@ Going to go back to apartment and make coffee for Evelyn and take Miles back. Ab
 
 6:21 PM 6/2/2019
 Going to work in the conference room for a little while.
+
+8:45 PM 6/2/2019
+Going to stop to do laundry. Did some good reviewing of Basic JavaScript materials now that that module is done.
+It was good to go through it. About halfway through now. I also fixed some issues with the notes, such as them being
+out of order at times and also being mislabel in other instances. Also added more to the notes where I though necessary.
+
+So far about 2 hours 30 min today.
