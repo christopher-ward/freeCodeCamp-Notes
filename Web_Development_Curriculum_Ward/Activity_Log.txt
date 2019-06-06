@@ -632,3 +632,9 @@ Taking a break.
 
 9:05 PM 6/3/2019
 Ending break.
+
+10:07 PM 6/5/2019
+Didn't work much on web dev stuff or coding yesterday. Had migraine toward end of work and made recovery and relaxation the priority.
+Been working in the conference room for about 2 hours now.
+Mostly Javascript for a while now, but going to look at the Responsive Web Design again now.
+
