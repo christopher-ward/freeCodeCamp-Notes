@@ -643,3 +643,19 @@ Actually I'm going to take a break.
 
 11:33 AM 6/6/2019
 Working at library on Survery Form.
+
+3:33 PM 6/8/2019
+Haven't updated om a while. Yesterday I worked for about 8 hours. I revised some old applied accessibility notes.
+I also went over some css grid concepts. Helpful articles were found. JS concepts were reviewed.
+
+Today I've worked for about 4 hours figuring how to make a flexible image gallery of varying templates.
+
+Now I'll do some more JS studying of the ES6 module.
+
+1:25 AM 6/9/2019
+I've been exploring more of the grid image gallery. for the past 2 or so hours. Before that I hadn't worked for a few hours.
+Taking break
+Worked for about 6 hours total
+
+1:30 PM 6/9/2019
+Started again about 30 mins ago. 
