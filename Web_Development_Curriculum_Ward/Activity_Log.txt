@@ -659,3 +659,13 @@ Worked for about 6 hours total
 
 1:30 PM 6/9/2019
 Started again about 30 mins ago. 
+
+3:11 PM 6/12/2019
+Been Playing Around. Going to make a new text file for color palettes or cool design things.
+
+9:38 PM 6/12/2019
+Haven't been updating this much the past few days, but I have been fairly active except for yesterday. 
+After making the new text file, I realized that I wanted to be able to add images or screenshots in so changed to a docx file.
+I then learned about macros to time stamp a document anywhere you like in the document. I then changed the file type to docm to have the macros.
+I morphed the timestamp Macro into a new macro for this document that timestamps at the end of the document each time the document is opened.
+I should explore Macros further at some point.

@@ -1,0 +1,26 @@
+.LOG
+
+3:13 PM 6/12/2019
+Cool coral colors that resemble Tron colors: Shades of blue with one dark orange.
+
+/* Color Theme Swatches in Hex */
+.Hickson's-fan-coral-1-hex { color: #044BD9; }
+.Hickson's-fan-coral-2-hex { color: #0583F2; }
+.Hickson's-fan-coral-3-hex { color: #05AFF2; }
+.Hickson's-fan-coral-4-hex { color: #05DBF2; }
+.Hickson's-fan-coral-5-hex { color: #BF5D39; }
+
+/* Color Theme Swatches in RGBA */
+.Hickson's-fan-coral-1-rgba { color: rgba(4, 75, 216, 1); }
+.Hickson's-fan-coral-2-rgba { color: rgba(4, 131, 242, 1); }
+.Hickson's-fan-coral-3-rgba { color: rgba(4, 174, 242, 1); }
+.Hickson's-fan-coral-4-rgba { color: rgba(4, 218, 242, 1); }
+.Hickson's-fan-coral-5-rgba { color: rgba(191, 93, 57, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Hickson's-fan-coral-1-hsla { color: hsla(219, 96, 43, 1); }
+.Hickson's-fan-coral-2-hsla { color: hsla(208, 96, 48, 1); }
+.Hickson's-fan-coral-3-hsla { color: hsla(196, 96, 48, 1); }
+.Hickson's-fan-coral-4-hsla { color: hsla(185, 96, 48, 1); }
+.Hickson's-fan-coral-5-hsla { color: hsla(16, 53, 48, 1); }
+
