@@ -1,6 +1,4 @@
-# '<a href="images/images/' + '$dir_var' + '/"' + '$image-var' + '><img src="images/thumbs/' + '$thumb-var' + '" alt="" title=""/></a>'
-#
-# '<a href="images/images/cool/"' + '$image-var' + '><img src="images/thumbs/' + '$thumb-var' + '" alt="" title=""/></a>'
+
 
 read -p "Directory name: " dir_var
 
