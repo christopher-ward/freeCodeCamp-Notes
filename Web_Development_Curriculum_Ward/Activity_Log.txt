@@ -669,3 +669,31 @@ After making the new text file, I realized that I wanted to be able to add image
 I then learned about macros to time stamp a document anywhere you like in the document. I then changed the file type to docm to have the macros.
 I morphed the timestamp Macro into a new macro for this document that timestamps at the end of the document each time the document is opened.
 I should explore Macros further at some point.
+
+12:52 AM 6/16/2019
+Been a while since I last added to the log.
+The past two days I haven't much of anything related to freeCodeCamp or job search.
+Tonight started working on the survey form.
+
+This led me to an idea. I think I should focus on finishing the freeCodeCamp Responsive Web Design and JavaScript Certificatesn projects.
+This may be an effective way to let the projects guide my learning.
+It may seem tedious and slow at first, but I think that learning by doing may be the best way to try to jump-start a career change.
+
+I also think that I should continue to write down any idea that have to do with projects or ideas for projects.
+
+I also thought that I should create a gallery page with nature photos from Loma Ridge. 
+Utilize the page creator script, as well as, HTML and CSS from structuring from url templates.
+
+1:05 AM 6/16/2019
+And the project ideas should be kept in the word doc if it doesn't freeze up again.
+Otherwise, I'll create another text file for Ideas.
+
+
+// WOOHOO! First Draft of My Survey Form finished!
+1:38 AM 6/17/2019
+Did more work this evening and finished an initial draft of the survey form with minimum requirements met and also custom colors.
+The colors are meant to be similar to colors from Tron.
+I will now stop for the evening.
+
+I should add comments to the files. I should then add some spacial styling to the form. Then submit.
+
