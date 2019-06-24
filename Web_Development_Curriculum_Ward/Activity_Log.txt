@@ -1,0 +1,728 @@
+.LOG
+
+8:17 PM 4/25/2019
+Beginning a log to track time that I've devoted to learning Web Development skills to become more marketable.
+
+I should include what type of activity has occured in regards to this effort. Also include amounts of time if multiple courses/types of work were done.
+
+Also describe main topics explored or utilized during the work time. At least 10 or 15 minutes should be devoted to this each day after study/work. 
+
+On weekends, do the same every 2 hours or halfway through the work/study time for the day. 
+
+
+9:10 PM 4/25/2019
+Sample Log:
+
+Began Creating List of topics/courses to cover while learning/studying/practicing.
+For the most part freeCodeCamp should be effective in covering many of the topics.
+However, there are some topics that should be explored outside of the freeCodeCamp curriculum.
+There should also be components utilized in addition to each topic covered on freeCodeCamp.
+
+At the moment, the main topics to cover are HTML/CSS, Javascript, WebDev soft skills, Training Projects, Web Development Training, and Debudding Training.
+
+About an hour was devoted to this effort. First night of the rest of your career. 
+
+Will devote about an hour or so more to the topic.
+
+1:46 PM 4/27/2019
+Beginning Javascript curriculum on freeCodeCamp. Will probably end early to switch to other topic or change locations.
+
+2:56 PM 4/27/2019
+I stopped about 30 minutes ago and took a quick nap
+
+
+11:02 AM 4/28/2019
+Started at Viento y Agua. Laptop log is not in line with desktop log.
+
+1:25 PM 4/28/2019
+Been working on applied accessibility and will now take a break and shift to a different topic when start back up.
+Quick summary of what I learned off the top of my head:
+Changing the contrast of the color to background-color to a ratio of at least 4.5:1 will making the text easier to see, especially for individuals with vision problem.
+Also having the background and foreground colors to similar can cause problems for individuals with color-blindness.
+There are also ways to give accesskeys to elements on the page so that keyboard-only users can easily jump to important elements using alt + the accesskey assigned.
+There is also ways to highlight a region that is tabbed to in order to bring attention to it as an important element to pay attention to.
+The focus order when pressing tab in a page can also be modified using the tabindex attribute. tabindex="0" is same as default and tabindex="1", "2", "3", etc.
+will have focus priority numerically before "0". 
+
+Elements assigned with the same tabindex values will progress in the order the elements appear in html after focus priority considered.
+Ex. tabindex="1" will focus before "2" and "2" will focus before "0" and duplicate values will focus in order of progression in the html from top to bottom after tabindex value priority. 
+
+2:20 PM 4/28/2019
+Starting back up. Going to focus on Javascript now.
+
+3:00 PM 4/28/2019
+Still going, just wanted to summarize what I've learned so far before I forget.
+Single quotes and doublequotes can be used interchangably around string literals. There can also be a mixture of double and single quotes within a string literal.
+However, if a string literal declaration begins with a single quote, the next time a single quote appears, that will represent the ending of the assignment.
+If this ends the literal to soon, use \ to escape before the quotation mark, or switch to double quotes, and vice-versa. There are also other escape features
+such as \n (newline), \t (tab), \\ (backslash, or \), etc.
+
+You can also append using +. This can be used in assingments and mixing string literals with variables or variables with variables. Aslo += can be used to append onto current variable string value.
+Going back to the Javascript freeCodeCamp.
+
+3:20 PM 4/28/2019
+OK, now I'm done with Javascript. Going to head home now.
+
+8:37 PM 4/28/2019
+Starting to work again and going to look at more Responsive Web Design Principles.
+
+9:34 PM 4/28/2019
+Taking break. Touched up on responsive design principles. Media queries allow features to change with changing size of screen or browser size.
+Images can be made responsive to size changes using percentages. Changing an image's width and height to half the original size to make it appear higher resolution and
+also optimize for retina displays. You can also have text size change in relation to viewport dimensions (vw, vh, vmin, vmax). And began flexbox.
+
+11:37 PM 4/28/2019
+Putting in another hour. Going to read some articles, do some javascript and apply some accessibility tools to my Harvard CS50 Project.
+
+12:35 AM 4/29/2019
+Stopped around 30 minutes in.
+
+9:17 AM 4/29/2019
+Starting at Hidden House Coffee. Going to start with Responsive Web Design for a little while. Then editing the old project to bring it up to accessibility standards. Then probably Javascript. 
+
+11:06 AM 4/29/2019
+Stopped about 20 minutes ago. The flexbox topics so far have largely been refreshers of concepts previously learned but are good to review. Some of the terminology is slightly different or more in depth.
+Next up I'll work on updating the old project.
+
+12:19 PM 4/29/2019
+Added figure tags and figcaption to make img elements more accessibility to screen readers on old Project0 from Harvard CS50 Web course. It was only added to page_7, next in that project will be adding
+accessibile forms for practice and ensuring the rest of the elements have accessibility aspects included.
+Taking a break. May go to lunch before starting again. May do some more Javascript before that.
+
+12:36 PM 4/29/2019
+Going to leave Hidden House and go get lunch.
+
+5:11 PM 4/29/2019
+Started reading articles about 45 mins ago. Starting back on Flexbox. More than halfway through and then one more section before projects.
+Closer and closer to the Responsive Web Design Projects.
+
+6:21 PM 4/29/2019
+I didn't start flexbox. Instead I started to look into how to automate adding new files to be tracked, committing and pushing to github using bash script.
+I was able to create a script that checks the status, adds all untracked files, commits with a string literal set in the script and pushes to github.
+I want to edit the script to be able to take a commit message from the user to be used for the commit step.
+The user should be prompted to give a commit message and have everything else automated. The git status should show before the prompt for the commit message.
+
+6:31 PM 4/29/2019
+Taking a break to walk the boys and stretch. So far up to 4 hours 15 min of actually work today. Goal is 6 hours. 1 hour 45 min remaining.
+
+7:20 PM 4/29/2019
+Been back from the walk for about 20 minutes and working on the script. Going to go to pool for a little bit with Evelyn in about 5 minutes.
+
+8:38 PM 4/29/2019
+Returned from pool about 30 min ago and have been researching how to have user input in bash. Going to cook dinner soon. 1 hour 15 min remaining.
+
+9:02 PM 4/29/2019
+Very close to a finished script. Getting things working. Breaking for Dinner. 45 Mins remaining
+
+9:50 PM 4/29/2019
+Starting back up.
+
+11:10 PM 4/29/2019
+Stopped to check laundry about 10 minutes ago. Realizing, I have exceeded 6 hours of study/devWork.
+
+Today, I revisited some flexbox basics. Started adding some accessibility items to the old CS50 Project0. Read some articles.
+Found some new resources. Decided to take a look into bash scripting. 
+Began creating a script to make committing and pushing new changes easier/quicker.
+
+Tomorrow, I'll go back to normal weekday hours. I'll try to finish up the flexbox section and some of the next section tomorrow morning/night. 
+And then, the next morning, I will be heading to Coachella valley with Cesar to work on his project.
+We will also be spending the night there, so I may be able to get some work done there. I also may not.
+
+This weekend, including today(Sat, Sun, Mon), I worked 13 hours and 3 minutes.
+
+
+7:41 PM 4/30/2019
+Tuesday:
+Going to work for about 25 min.
+
+8:49 PM 4/30/2019
+Stopped about 25 mins in.
+
+7:04 PM 5/3/2019
+Going to start working with an SQL Tutorial I found online.
+
+I also read a few articles and think I want to start integrating questions and reviews to these notes to be revisited as I continue to learn and prepare for my career.
+
+11:34 AM 5/4/2019
+It didn't last long at all last night. Maybe did 45 min total last night.
+
+Starting again. Will stop in about 30 for lunch.
+
+2:33 PM 5/4/2019
+Worked for about 30 min. Starting back up. Going to watch a video about loop vs recursion, and then will finish flexbox and move on from there.
+
+3:39 PM 5/4/2019
+Didn't end up doing much. Starting on CSS Grid now.
+
+
+5:00 PM 5/4/2019
+CSS Grid Summary:
+Worked for about 1 hour 15 min. Learned a lot about CSS Grid.
+
+What can CSS Grid allow you to do very quickly? What are the CSS grid units?
+
+How are gaps within the grid created? 
+
+How does grid-column control grid item spacing? What does this mean? grid-column: 1 / 3; (grid-row?)
+
+How do you align an item horizontally? Vertically? (How does start end and center relate to this?)
+
+How do you align all items at once? 
+
+Explain the significance of grid-area-template and give an example. What does each word and pair of quotation marks mean in terms of the grid?
+
+Individual grid items can be assigned to areas using the grid-area property and the name of the area name. This relates to grid-template-areas.
+
+Going to take a little break, maybe go get groceries. This type up took around 15 minutes. So total today: 2 hours
+
+
+10:09 PM 5/4/2019
+Starting again.
+
+
+11:45 PM 5/4/2019
+Just finished CSS Grid section.
+How is grid-area used to define the area for an item? How does repeat function reduce repetition? 
+Auto-fit and auto-fill are different. What are the differences? How are Media Queries used to create responsive layouts?
+
+I'll see how much more I can do. The Responsive Web Design Projects are up next in the Responsive Web Design Curriculum.
+
+Total so far: 3 hours 30min
+
+12:51 AM 5/5/2019
+Didn't do much. Maybe about 30min.
+
+Starting some more. So far: 4 hours.
+
+1:51 AM 5/5/2019
+Stopping now. I read articles about Mastery Based Learning, learning method. 
+I like aspects of what it said. I feel that I've been gravitating toward that more, lately.
+
+I will have to explore more later, but for now, I'm going to focus on those Responsive Web Design projects and to a lesser extent, Javascript.
+
+Was able to work for 5 hours today.
+
+2:26 AM 5/5/2019
+I actually ended up continuing to explore and spent most of the time tinkering with the shell script again. Finally finished a version.
+
+It prompts for a commit message after showing git status. All unstaged files are then added to staged files and then the changes are committed with the commit message given.
+
+Total time: 5 hours 30 min.
+
+10:24 AM 5/5/2019
+Started about 10 min ago. Setting up separate directory for freeCodeCamp Projects. And going to start on the first Responsive Web Design Project.
+Will stop soon though to walk the boys.
+
+11:23 AM 5/5/2019
+Stopped to walk the boys about 20 minutes ago. Total "today" is 40 minutes.
+
+Starting again and then will take break.
+
+11:54 AM 5/5/2019
+Been exploring the project and codepen and what it has to offer. Started an account and taking the tour.
+
+So far 1 hour 10 min. 
+
+5:12 PM 5/5/2019
+Worked for about 45 min before going to the conference room with Evelyn. I arrived about 5 minutes ago.
+
+6:09 PM 5/5/2019
+Figuring out what exactly is needed for this first project. Taking short break.
+
+7:22 PM 5/5/2019
+Initally tried to use the codepen format, but realized I'd much rather use atom when I realized I could add the freeCodeCamp Project tester as javascript sourcee in the project.
+
+Now playing around with a grid setup. Never really took a break.
+
+11:58 PM 5/5/2019
+Started to dig into the blending of my activity logs.
+
+12:24 AM 5/6/2019
+Last step to blending done. 
+
+Total Time "today" so far: 5 hours.
+
+1:22 AM 5/6/2019
+Hit my 6 hours.
+
+1:51 PM 5/6/2019
+Took today off and going to start working on project for about an hour. Then, I'll switch to git/bash practice and scripting.
+Then third hour will be Javascript. Fourth hour back to project. Fifth hour will be Javascript. Sixth hour free topic
+
+
+Or any order totalling these hours:
+Hours  :  Focus
+   2   :   Project
+   2   :   Javascript
+   1   :   Git/Bash
+   1   :   Free Choice
+
+...
+
+Starting with Project.
+
+
+2:24 PM 5/6/2019
+Break for lunch with Evelyn. Started off with 1 hour git/bash scripting instead. Worked for 33 mins.
+
+4:13 PM 5/6/2019
+Resuming git/bash scripting for remainder of the previous hour.
+
+5:00 PM 5/6/2019
+Taking a break. Transitioning to Project when start again. 1 hour 20 min so far.
+
+5:19 PM 5/6/2019
+Actually finally stopped. I've been very fascinated with bash and building scripts to make tasks easier.
+Must keep visiting this. 1 hour 40 min so far.
+That leaves:
+
+Hours  :  Focus
+   2   :   Project
+   2   :   Javascript
+   0   :   Git/Bash
+   .5   :   Free Choice
+
+...
+
+5:52 PM 5/6/2019
+Doing some more curriculum tweaking for the past 15 min.
+1 hour 55 min so far.
+
+
+6:28 PM 5/6/2019
+Been reading articles on building wed dev portfolio and finding a full time job.
+2 hour 30 min so far.
+
+Will need to modify remainder of night because of fieldwork tomorrow.
+
+10:43 PM 5/6/2019
+Didn't do much. Had dinner and watched GoT with Evelyn. Also did Laundry. And will
+
+1:46 PM 5/7/2019
+Tribute Page Project.
+Worked for about an hour.
+
+7:02 PM 5/7/2019
+Starting at conference room. Will first fix shell git/push script and then work on Tribute Page.
+
+8:47 PM 5/7/2019
+Never switched from playing with the script lol. It really keeps me interested. I've added functionality which has made it beefier: specific files can be chosen instead of all of the files, but slows down the process.
+Works well but will need eventual tweaking when learn more.
+
+Worked for 2 hours 45 min today.
+
+9:23 PM 5/7/2019
+Finishing up now.
+
+2:07 PM 5/8/2019
+Started 7 minutes ago at Science Library. Will work on Tribute Page.
+
+3:17 PM 5/8/2019
+Actually stopped at 2:30 to Drive Evelyn. Now setup in Langson Library. Will be here for about an hour.
+So far today 30 min.
+
+3:46 PM 5/8/2019
+Pausing. Too tired. 
+
+3:57 PM 5/8/2019
+Starting back up. Going to focus on Javascript until Evelyn calls me.
+
+4:49 PM 5/8/2019
+Leaving now.
+
+10:02 PM 5/8/2019
+Started working on the tribute project about 30 mins ago. Thinking that I should integrate the nav component and/or some other components from the CS50 project0 in a way that makes sense.
+Perhaps I could integrate some of the styling.
+ 
+8:28 PM 5/10/2019
+At Boyd Canyon Research Station and going to code for a little bit. Worked for about an hour.
+
+6:15 PM 5/13/2019
+Been slacking these past days. Starting again tonight. Starting with wrapping up current responsive web design project and move on to the next.
+
+8:33 PM 5/13/2019
+About 45 minutes have been used cleaning clothes and making and eating dinner. But back on it.
+
+9:18 PM 5/13/2019
+Turned in Tribute Page Project and been reading about softskills, how to get a entry job, big O notation and Javascript.
+
+10:26 PM 5/13/2019
+Taking short break.
+
+8:19 AM 5/14/2019
+Break last night didn't really end.
+
+Starting again this morning for a little while before going to Croul. I think that I like the idea of doing this more often.
+By this, I mean waking up earlier to drive Evelyn to School and then taking a few hours to learn and code.
+It allows for the feeling of working at night that I enjoy, while not actually making me lose any sleep.
+I also won't be disturbing Evelyn at night.
+
+
+8:44 AM 5/14/2019
+Working on Javascript at the moment. Started making screenshots of both the prompt/lesson and the code area after solution verified.
+Just add so for the solution, ex: #_""(sol).png
+
+# being number of saved lesson
+"" being the name after the number
+
+// Add comments in solution code that describe what is occuring as a result of the change in code.
+
+
+7:23 PM 5/14/2019
+Done about 30 minutes of work since got back so far. 
+Total Time Today: ~2 hours 30 min
+
+Going to work some more starting now. Will stop soon to change laundry and also to cook dinner.
+
+7:49 PM 5/14/2019
+Laundry trip was neglible. Will stop in 10 minutes to make dinner.
+
+9:54 PM 5/14/2019
+Stopped for dinner 15 mins after instead of 10. Been back on it for the past 5 minutes.
+
+So far: ~3 hours 15 min
+
+10:49 PM 5/14/2019
+Took a 20 minute break.
+
+So far: ~3 hours 50 min
+
+Ending for tonight.
+
+9:48 PM 5/15/2019
+I work about 5 hours earlier today. Worked on getting better with unix code and bash. Finally figured out a way to quickly
+create content for gallery type page. To at least populate some repeated structure with filenames from a directory.
+This can be modified for many different things. Starting back up again.
+
+2:16 PM 5/16/2019
+Yesterday worked for more than 8 hours, possibly 10 hours. 
+Went in depth on learning the Unix Bash scripts to create pages with repeated elements.
+
+10:44 AM 5/17/2019
+Yesterday at the airport I worked for about an hour, studying Javascript
+Going to work for a little bit right now.
+
+7:12 AM 5/18/2019
+Yesterday worked for an hour. Going to work for a little bit this morning.
+
+
+7:38 AM 5/18/2019
+I think I should write a little bit about what I have learned so far. In javascript I have learned simple basics so far.
+How to create and assign value to variables. Use var to declare a variable and then assignment is the same as other languages.
+Arrays are also similar to Matlab.
+
+Some new things. arrName.push() will add the value with the parentheses to the end of the array (far-right).
+arrName.pop() will remove the last value of the array (far-right)
+arrName.shift() will remove the first value of the array (far-left)
+arrName.unshift() will add the value within parantheses to the beginning of the array (far-left)
+
+There are also many properties similar to other programming languages such as functions that are created with the function
+keyword in the format:
+
+function functionName(parameters, if any) {
+    #statements;
+}
+
+There are also boolean values and conditional statements using if keyword:
+
+if (conditional) {
+   #conditional statement;
+}
+
+within a function:
+
+if (conditional) {
+   return #true conditional statement;
+}
+return #false conditional statement;
+
+Also comparison with equality statements (==)
+variable/statement/value == variable/statement/value, will produce boolean value of true if true or left is equal to right
+If left is '3', a string, and right is 3, a numnber, will still be true equality because javascript will convert to common type
+'3' == 3 will produce true boolean
+
+However,
+Strict equality statements (===) will not return true boolean if left is '3', a string, and right is 3, a numnber.
+variable/statement/value must be === (strictly equal) to the other variable/statement/value in value and datatype.
+'3' === 3 will return false boolean
+
+
+8:09 AM 5/18/2019
+Will end now for Breakfast
+
+
+7:37 PM 5/21/2019
+Starting merging organizing files and environment files from trip about 20 minutes ago.
+
+12:17 AM 5/22/2019
+Been coding, debugging and fixing logs for about 3 hours so far today, perhaps longer.
+
+9:06 AM 5/22/2019
+Worked for about 30 mins after that last log. Now I'm at the Grad Lounge in the Science Library (5th Floor).
+Could be a good setup for future studying/working.
+
+First thing to work on today is the Next Responive Web Design Project (Survey Form). I will first try to make as much of the page
+without lookout at the sample page to see how far I can get and to not influence the end result too much.
+
+9:39 AM 5/22/2019
+Got sidetracked by making notes for a new script. Will now to Survey Form
+
+7:52 AM 5/23/2019
+Worked on Survey Form yesterday for about 1 hour until around 10:30 AM. Also worked for about 3 hours last night, reading articles
+and working on Shell Scripts
+
+8:52 PM 5/23/2019
+Going to work for a little bit on Javascript.
+
+10:45 PM 5/23/2019
+Ending for the night.
+
+1:25 PM 5/24/2019
+Worked this morning for about an hour. Worked on "Golf Code" which was the accumulation of different conditional if statement exercises
+Learned some cool tricks from it. Check "60_Golf-Code" and "60_Golf-Code_solution" for some good summary.
+It's also important to be aware of the logic working through the if statements (if, else if, else) in a multi-conditional 
+situation. Missteps can result in lines of code being irrelevant or not run because something overrides it.
+
+3:23 PM 5/24/2019
+Starting doing more Javascript about 30 minutes ago and will stop around 4 and continue again later. Brought in switch statements now.
+
+3:58 PM 5/24/2019
+Finished up at Return Early Pattern for Functions
+
+9:51 PM 5/24/2019
+Starting backup. I can't stop with the Javascript!
+
+11:36 PM 5/24/2019
+Going to take a break now. Had a really fun time figuring out the Counting Cards exercise. Utilized mixture of switch and ifs.
+So far ~3 hours 30 min today.
+
+8:35 AM 5/25/2019
+Starting for the morning.
+
+9:01 AM 5/25/2019
+Taking break to walk boys and make breaksfast. Was able to get through a few lessons on Javascript Objects and dot(.) versus bracket[] notation
+
+
+1:45 PM 5/25/2019
+Been at a Cafe since for past 45 min working on Javascript.
+
+3:11 PM 5/25/2019
+Going to stop now and check on Evelyn.
+So far today, worked for 2 hours 40 min. Learned a lot about JavaScript Objects.
+
+2:47 PM 5/26/2019
+Worked for about 4 more hours last night, but experimented with using grid layouts for image galleries.
+Total worked over 7 hours yesterday.
+
+Haven't looked at anything today yet. Going to start now with the Survey Form Project.
+
+2:57 PM 5/26/2019
+Actually going to reorganize early notes and use updated method for making notes to fix old notes.
+
+11:11 PM 5/26/2019
+Worked for about 1 more hour and then made lunch and then worked another 30 min before brother called to meet up. Going to work for a little bit.
+
+1:26 PM 5/27/2019
+Worked for a about an hour more last night improving some of the Responsive Web Design notes. 
+Been working for the past 30 mins. Doing more improving of the notes. I've really enjoyed revisiting some of the topics that perhaps didn't fully stick.
+I will now eat lunch and transition back to JavaScript.
+
+3:18 PM 5/27/2019
+Starting back up again.
+
+7:55 PM 5/27/2019
+Worked for about 3 hours. Part of it was working on the image gallery and exerpimenting more with the grid properties.
+Also looked into using javascript to hide and show images after a certain amount. Couldn't get it to work.
+
+Been working for the past 30 min on JavaScript. Continuing now.
+
+9:26 PM 5/27/2019
+Dinner. Today: ~ 4 hours.
+
+11:21 AM 5/28/2019
+Working at McDonalds for about an hour. Started about 10 minutes ago.
+
+9:22 AM 5/29/2019
+At Coffee Nature going to do some work.
+
+12:50 PM 5/29/2019
+Stopping and Moving locations. Figured out Record Collection Problem.
+
+3:46 PM 5/29/2019
+Started back up at Langson Grad Lounge about 15 min ago.
+
+4:32 PM 5/29/2019
+Taking break. Evelyn may also be done soon.
+
+I was able to learn a lot about various types of loops.
+
+7:37 PM 5/29/2019
+Going to start back up at home. So far today: 4 hours 30 min
+
+10:05 AM 5/30/2019
+Only worked for a small amount last night. Bringing total to around 5 hours 15 min.
+
+Working at McDonald's for about an hour.
+
+1:52 PM 5/31/2019
+Spending a little time at Ren's Asian Bistro.
+Finally figured out profile-lookup solution!
+Going to paste below to play around with more when get back home if don't move on before.
+
+  for (var i=0; i < contacts.length; i++) {
+
+    if (contacts[i]["firstName"] == name) {
+
+      if (contacts[i][prop]) {
+
+        return contacts[i][prop];
+
+      }
+
+      else {
+
+        return "No such property";
+
+      }
+
+    }
+ 
+  } return "No such contact";
+
+7:59 PM 5/31/2019
+Back home and went to next waypoint in the JavaScript freecodecamp tutorial. Going to work for a bit before pick up Evelyn.
+
+
+9:20 AM 6/1/2019
+At Coffee Nature for about 20 min now. Going to try to finish Basic JavaScript section.
+
+2:46 PM 6/1/2019
+Starting at home again. Was 2 hours of work at Coffee Nature.
+
+3:33 PM 6/1/2019
+Now I'm in the conference room. 
+
+4:26 PM 6/1/2019
+I finished the Basic JavaScript module in freeCodeCamp!
+
+6:42 PM 6/1/2019
+I took break about 40 min ago to walk the boys and get a snack. Starting back up.
+
+7:32 PM 6/1/2019
+Going to go back to apartment and make coffee for Evelyn and take Miles back. About 7 hours so far today.
+
+6:21 PM 6/2/2019
+Going to work in the conference room for a little while.
+
+8:45 PM 6/2/2019
+Going to stop to do laundry. Did some good reviewing of Basic JavaScript materials now that that module is done.
+It was good to go through it. About halfway through now. I also fixed some issues with the notes, such as them being
+out of order at times and also being mislabel in other instances. Also added more to the notes where I though necessary.
+
+So far about 2 hours 30 min today.
+
+12:45 PM 6/3/2019
+Worked for about an hour in the Grad Lounge during lunch. 
+
+7:47 PM 6/3/2019
+Did some work for about 15 min in apartment and just came down to a conference room about 10 minutes ago.
+
+8:32 PM 6/3/2019
+Taking a break.
+
+9:05 PM 6/3/2019
+Ending break.
+
+10:07 PM 6/5/2019
+Didn't work much on web dev stuff or coding yesterday. Had migraine toward end of work and made recovery and relaxation the priority.
+Been working in the conference room for about 2 hours now.
+Mostly Javascript for a while now, but going to look at the Responsive Web Design again now.
+
+10:12 PM 6/5/2019
+Actually I'm going to take a break.
+
+11:33 AM 6/6/2019
+Working at library on Survery Form.
+
+3:33 PM 6/8/2019
+Haven't updated om a while. Yesterday I worked for about 8 hours. I revised some old applied accessibility notes.
+I also went over some css grid concepts. Helpful articles were found. JS concepts were reviewed.
+
+Today I've worked for about 4 hours figuring how to make a flexible image gallery of varying templates.
+
+Now I'll do some more JS studying of the ES6 module.
+
+1:25 AM 6/9/2019
+I've been exploring more of the grid image gallery. for the past 2 or so hours. Before that I hadn't worked for a few hours.
+Taking break
+Worked for about 6 hours total
+
+1:30 PM 6/9/2019
+Started again about 30 mins ago. 
+
+3:11 PM 6/12/2019
+Been Playing Around. Going to make a new text file for color palettes or cool design things.
+
+9:38 PM 6/12/2019
+Haven't been updating this much the past few days, but I have been fairly active except for yesterday. 
+After making the new text file, I realized that I wanted to be able to add images or screenshots in so changed to a docx file.
+I then learned about macros to time stamp a document anywhere you like in the document. I then changed the file type to docm to have the macros.
+I morphed the timestamp Macro into a new macro for this document that timestamps at the end of the document each time the document is opened.
+I should explore Macros further at some point.
+
+12:52 AM 6/16/2019
+Been a while since I last added to the log.
+The past two days I haven't much of anything related to freeCodeCamp or job search.
+Tonight started working on the survey form.
+
+This led me to an idea. I think I should focus on finishing the freeCodeCamp Responsive Web Design and JavaScript Certificatesn projects.
+This may be an effective way to let the projects guide my learning.
+It may seem tedious and slow at first, but I think that learning by doing may be the best way to try to jump-start a career change.
+
+I also think that I should continue to write down any idea that have to do with projects or ideas for projects.
+
+I also thought that I should create a gallery page with nature photos from Loma Ridge. 
+Utilize the page creator script, as well as, HTML and CSS from structuring from url templates.
+
+1:05 AM 6/16/2019
+And the project ideas should be kept in the word doc if it doesn't freeze up again.
+Otherwise, I'll create another text file for Ideas.
+
+
+// WOOHOO! First Draft of My Survey Form finished!
+1:38 AM 6/17/2019
+Did more work this evening and finished an initial draft of the survey form with minimum requirements met and also custom colors.
+The colors are meant to be similar to colors from Tron.
+I will now stop for the evening.
+
+I should add comments to the files. I should then add some spacial styling to the form. Then submit.
+
+
+1:58 PM 6/22/2019
+Been a while since updating the log. Been on a bit of a break from coding. But, I did sketch out what a landing page for reclaiming stem and jona ward would look like.
+I also created the building blocks for reclaiming stem landing page.
+
+I will now transcribe the notes for jona ward landing page into digital notes to start working on the actual code.
+I should finish transcribing all the notes before beginning the next step.
+
+4:42 PM 6/22/2019
+I stopped around 3 to make lunch and watch game of thrones with Evelyn. I ended up just working updating the possible course list and exploring how the Nintendo Cadence of Hyrule Website is set up.
+
+Now I will start to work on what was mentioned in the previous entry and take periodic breaks.
+
+2:17 PM 6/23/2019
+Been at Library since around 12 working on the Jona Ward Landing Page. Added in some minor notes additions.
+Added in the major HTML Skeleton Components. Need to next add some styling to see how thinks interact.
+
+Also need to update github with last nights activity logs, then pull them here, and then add this and following logs to be pushed
+
+3:24 PM 6/23/2019
+Took about a 20 min break after entering last log, then began adding css styles for Jona Ward Landing Page.
+Taking short restroom break then back at it. Been Working today for about 3 hours now.
+
+3:45 PM 6/23/2019
+Back at it.
+
+4:41 PM 6/23/2019
+Leaving Library in a few minutes. I spent the last hour finding images of Jona's work. Started with posters, red carpet, and panels.
+

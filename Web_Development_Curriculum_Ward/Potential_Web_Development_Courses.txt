@@ -6,11 +6,20 @@ Web Development Development Courses
 		b) freeCodeCamp curriculum
 
 - Javascript
-	1) 
+	1) Algorithms and Data Structures
+		a) freeCodeCamp curriculum
+
+- Front End Libraries
 
 - Web Development soft skills
+	1) Interview Prep
+	2) Communication Skills
+		a) Talking about the important take away with topics involving code.
+		b) Working with other coders
 
 - Training Projects
+	1) Reclaiming Stem Website/Landing Page
+	2) Jona Ward Website
 
 - Git/Bash Script Creation
 	1) Task Optimization Scripts
@@ -21,7 +30,7 @@ Web Development Development Courses
 
 - Web Development Documentation Training
 	1) Actity Log Daily (Multiple Times on Weekends)
-	2) 
+	2) Storyboarding Website Ideas
 
 - Debugging Training
 	 1) Structural Integrity
@@ -32,5 +41,5 @@ Web Development Development Courses
 			ii) Javascript
 				ii.1) Online Resources (Github, Google, etc.)
 				ii.2) freeCodeCamp curriculum
-			iii) 
+			iii) List of coding practice sites that I sent to myself
 	
