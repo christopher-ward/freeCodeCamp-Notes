@@ -732,3 +732,6 @@ Going to work at Peets and have lunch for about 30 min.
 12:22 PM 7/4/2019
 Been working on and off lately. Found a cool js library called reveal.js. Also learned some more grid features.
 Advanced more on the Jona Ward Landing Page. Been working at a cafe with Evelyn in Santa Ana for around 5 hours.
+
+10:04 AM 7/7/2019
+At neat coffee shop for a little bit. Going to work on the landing page and on javascript tutorial
